@@ -1,0 +1,8 @@
+.header-main-div {
+    border-bottom: 2px black solid;
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    min-height: 200px;
+    width: 100%;
+}
